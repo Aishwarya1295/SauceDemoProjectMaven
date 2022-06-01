@@ -1,0 +1,85 @@
+2022-05-30 18:07:12,593  INFO [main] SauceDemoMaven:37 - Chrome Browser Opened
+2022-05-30 18:07:18,640  INFO [main] SauceDemoMaven:22 - Test Case Passed
+2022-05-30 18:33:12,882  INFO [main] SauceDemoMaven:37 - Chrome Browser Opened
+2022-05-30 18:33:13,364  INFO [main] SauceDemoMaven:57 - URL is opened
+2022-05-30 18:33:15,796  INFO [main] SauceDemoMaven:69 - Enter the Username
+2022-05-30 18:33:15,894  INFO [main] SauceDemoMaven:72 - Enter the Password
+2022-05-30 18:33:18,200  INFO [main] SauceDemoMaven:78 - Click on Login button
+2022-05-30 18:33:18,224  INFO [main] SauceDemoMaven:22 - Test Case Passed
+2022-05-30 18:33:57,957  INFO [main] SauceDemoMaven:37 - Chrome Browser Opened
+2022-05-30 18:33:58,431  INFO [main] SauceDemoMaven:57 - URL is opened
+2022-05-30 18:34:00,790  INFO [main] SauceDemoMaven:69 - Enter the Username
+2022-05-30 18:34:00,888  INFO [main] SauceDemoMaven:72 - Enter the Password
+2022-05-30 18:34:03,348  INFO [main] SauceDemoMaven:78 - Click on Login button
+2022-05-30 18:34:03,740  INFO [main] SauceDemoMaven:20 - Filter is applied
+2022-05-30 18:34:09,611  INFO [main] SauceDemoMaven:37 - Chrome Browser Opened
+2022-05-30 18:34:10,062  INFO [main] SauceDemoMaven:57 - URL is opened
+2022-05-30 18:34:12,344  INFO [main] SauceDemoMaven:69 - Enter the Username
+2022-05-30 18:34:12,422  INFO [main] SauceDemoMaven:72 - Enter the Password
+2022-05-30 18:34:14,808  INFO [main] SauceDemoMaven:78 - Click on Login button
+2022-05-30 18:34:14,943  INFO [main] SauceDemoMaven:23 - HomePage Opened
+2022-05-30 18:34:19,857  INFO [main] SauceDemoMaven:31 - click on About Page
+2022-05-30 18:34:22,357  INFO [main] SauceDemoMaven:49 - Login Test Case Passed
+2022-05-30 18:34:26,063  INFO [main] SauceDemoMaven:37 - Chrome Browser Opened
+2022-05-30 18:34:26,523  INFO [main] SauceDemoMaven:57 - URL is opened
+2022-05-30 18:34:28,824  INFO [main] SauceDemoMaven:69 - Enter the Username
+2022-05-30 18:34:28,919  INFO [main] SauceDemoMaven:72 - Enter the Password
+2022-05-30 18:34:31,228  INFO [main] SauceDemoMaven:78 - Click on Login button
+2022-05-30 18:34:31,476  INFO [main] SauceDemoMaven:26 - Products added in the Cart
+2022-05-30 18:34:34,007  INFO [main] SauceDemoMaven:34 - Click on Cart Button
+2022-05-30 18:34:36,405  INFO [main] SauceDemoMaven:44 - Click on Checkout Button
+2022-05-30 18:34:36,554  INFO [main] SauceDemoMaven:51 - Enter First Name
+2022-05-30 18:34:36,689  INFO [main] SauceDemoMaven:54 - Enter Last Name
+2022-05-30 18:34:36,826  INFO [main] SauceDemoMaven:57 - Enter Zip Code
+2022-05-30 18:34:39,080  INFO [main] SauceDemoMaven:63 - Click on continue Button
+2022-05-30 18:34:41,510  INFO [main] SauceDemoMaven:73 - Click on Finish Button
+2022-05-30 18:34:47,463  INFO [main] SauceDemoMaven:37 - Chrome Browser Opened
+2022-05-30 18:34:47,925  INFO [main] SauceDemoMaven:57 - URL is opened
+2022-05-30 18:34:50,208  INFO [main] SauceDemoMaven:69 - Enter the Username
+2022-05-30 18:34:50,286  INFO [main] SauceDemoMaven:72 - Enter the Password
+2022-05-30 18:34:52,749  INFO [main] SauceDemoMaven:78 - Click on Login button
+2022-05-30 18:34:52,968  INFO [main] SauceDemoMaven:24 - Products added in the Cart
+2022-05-30 18:34:55,726  INFO [main] SauceDemoMaven:32 - Click on Cart Button
+2022-05-30 18:34:58,061  INFO [main] SauceDemoMaven:42 - Click on Checkout Button
+2022-05-30 18:35:01,466  INFO [main] SauceDemoMaven:37 - Chrome Browser Opened
+2022-05-30 18:35:01,921  INFO [main] SauceDemoMaven:57 - URL is opened
+2022-05-30 18:35:04,199  INFO [main] SauceDemoMaven:69 - Enter the Username
+2022-05-30 18:35:04,284  INFO [main] SauceDemoMaven:72 - Enter the Password
+2022-05-30 18:35:06,814  INFO [main] SauceDemoMaven:78 - Click on Login button
+2022-05-30 18:35:07,077  INFO [main] SauceDemoMaven:25 - 3 products added to the cart
+2022-05-30 18:35:09,799  INFO [main] SauceDemoMaven:36 - 3 Products Test Case Passed
+2022-05-30 18:35:13,516  INFO [main] SauceDemoMaven:37 - Chrome Browser Opened
+2022-05-30 18:35:14,024  INFO [main] SauceDemoMaven:57 - URL is opened
+2022-05-30 18:35:16,306  INFO [main] SauceDemoMaven:69 - Enter the Username
+2022-05-30 18:35:16,393  INFO [main] SauceDemoMaven:72 - Enter the Password
+2022-05-30 18:35:18,865  INFO [main] SauceDemoMaven:78 - Click on Login button
+2022-05-30 18:35:18,898  INFO [main] SauceDemoMaven:22 - Test Case Passed
+2022-05-30 18:35:22,706  INFO [main] SauceDemoMaven:37 - Chrome Browser Opened
+2022-05-30 18:35:23,189  INFO [main] SauceDemoMaven:57 - URL is opened
+2022-05-30 18:35:25,484  INFO [main] SauceDemoMaven:69 - Enter the Username
+2022-05-30 18:35:25,571  INFO [main] SauceDemoMaven:72 - Enter the Password
+2022-05-30 18:35:27,849  INFO [main] SauceDemoMaven:78 - Click on Login button
+2022-05-30 18:35:27,960  INFO [main] SauceDemoMaven:24 - Single product is added to cart
+2022-05-30 18:35:30,346  INFO [main] SauceDemoMaven:35 - Single Product Test Case Passed
+2022-05-30 18:35:34,031  INFO [main] SauceDemoMaven:37 - Chrome Browser Opened
+2022-05-30 18:35:34,491  INFO [main] SauceDemoMaven:57 - URL is opened
+2022-05-30 18:35:36,750  INFO [main] SauceDemoMaven:69 - Enter the Username
+2022-05-30 18:35:36,825  INFO [main] SauceDemoMaven:72 - Enter the Password
+2022-05-30 18:35:39,107  INFO [main] SauceDemoMaven:78 - Click on Login button
+2022-05-30 18:35:39,321  INFO [main] SauceDemoMaven:23 - Products added in the Cart
+2022-05-30 18:35:41,704  INFO [main] SauceDemoMaven:31 - Click on Cart Button
+2022-05-30 18:35:43,924  INFO [main] SauceDemoMaven:41 - Add to Cart Test Case Passed
+2022-05-30 18:35:47,279  INFO [main] SauceDemoMaven:37 - Chrome Browser Opened
+2022-05-30 18:35:47,718  INFO [main] SauceDemoMaven:57 - URL is opened
+2022-05-30 18:35:50,002  INFO [main] SauceDemoMaven:69 - Enter the Username
+2022-05-30 18:35:50,083  INFO [main] SauceDemoMaven:72 - Enter the Password
+2022-05-30 18:35:52,363  INFO [main] SauceDemoMaven:78 - Click on Login button
+2022-05-30 18:35:52,465  INFO [main] SauceDemoMaven:25 - Hamburger Opened
+2022-05-30 18:35:54,826  INFO [main] SauceDemoMaven:31 - click on logout button
+2022-05-30 18:35:54,842  INFO [main] SauceDemoMaven:39 - Logout Test Case Passed
+2022-05-30 18:36:45,734  INFO [main] SauceDemoMaven:37 - Chrome Browser Opened
+2022-05-30 18:36:46,196  INFO [main] SauceDemoMaven:57 - URL is opened
+2022-05-30 18:36:48,553  INFO [main] SauceDemoMaven:69 - Enter the Username
+2022-05-30 18:36:48,643  INFO [main] SauceDemoMaven:72 - Enter the Password
+2022-05-30 18:36:50,928  INFO [main] SauceDemoMaven:78 - Click on Login button
+2022-05-30 18:36:51,223  INFO [main] SauceDemoMaven:20 - Filter is applied
